@@ -22,7 +22,7 @@ for (var i = 2; i <= 100; i++) {
     }
 }
 
-console.log("Sum of Primes is:" + sum);
+console.log("Sum:" + sum);
 
 /* prime numbers would not be divisible by a number smaller than itself.*/
 
